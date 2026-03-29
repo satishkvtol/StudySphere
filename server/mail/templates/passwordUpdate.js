@@ -64,7 +64,7 @@ exports.passwordUpdate = (email, name) => {
         </div>
         <div class="support">
           If you have any questions or need further assistance, please feel free to reach us at
-          <a href="mailto:kumarvikashverma2">kumarvikashverma2</a>. We are here to help!
+          <a href="mailto:satishbaba@gmail.com">satishbaba@gmail.com</a>. We are here to help!
         </div>
       </div>
     </body>

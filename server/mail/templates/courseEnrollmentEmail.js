@@ -73,7 +73,7 @@ exports.courseEnrollmentEmail = (courseName, name) => {
         </div>
         <div class="support">
           If you have any questions or need assistance, please feel free to reach out to
-          <a href="mailto:kumarvikashverma>kumarvikashverma2</a>. We are here to help!
+          <a href="mailto:satishbaba@gmail.com">satishbaba@gmail.com</a>. We are here to help!
         </div>
       </div>
     </body>

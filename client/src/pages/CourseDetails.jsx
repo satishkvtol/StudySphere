@@ -15,6 +15,7 @@ import { fetchCourseDetails } from "../services/operations/courseDetailsAPI"
 import { buyCourse } from "../services/operations/studentFeaturesAPI"
 import GetAvgRating from "../utils/avgRating"
 import Error from "./Error"
+import myPhoto from "../assets/Images/myphoto.png.png"
 
 function CourseDetails() {
   const { user } = useSelector((state) => state.profile)
@@ -243,11 +244,7 @@ function CourseDetails() {
               <p className="text-[28px] font-semibold">Author</p>
               <div className="flex items-center gap-4 py-4">
                 <img
-                  src={
-                    instructor.image
-                      ? instructor.image
-                      : `https://api.dicebear.com/5.x/initials/svg?seed=${instructor.firstName} ${instructor.lastName}`
-                  }
+                  src={myPhoto.png.pnf}
                   alt="Author"
                   className="h-14 w-14 rounded-full object-cover"
                 />
