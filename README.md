@@ -1,2 +1,2 @@
 # Ed-tech-StudyNotion
-StudyNotion  an Ed-tech plate form completed
+ StudySphere is a full-stack EdTech platform designed to provide an interactive and seamless learning experience. It enables users to explore courses, track progress, and access structured educational content efficiently. Built using modern web technologies, the platform focuses on user-friendly design, scalability, and performance. It includes features like authentication, course management, and responsive UI, making it a complete solution for digital learning and knowledge sharing for students and educators.
